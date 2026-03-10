@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abenezer365/leetcode/tree/master/0013-roman-to-integer) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/abenezer365/leetcode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
